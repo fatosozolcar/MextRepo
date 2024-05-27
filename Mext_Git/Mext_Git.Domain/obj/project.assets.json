@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ali\\.nuget\\packages\\": {}
+    "C:\\Users\\Feyza\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ali\\source\\repos\\MextRepo\\Mext_Git\\Mext_Git.Domain\\Mext_Git.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Feyza\\Source\\Repos\\MextRepo\\Mext_Git\\Mext_Git.Domain\\Mext_Git.Domain.csproj",
       "projectName": "Mext_Git.Domain",
-      "projectPath": "C:\\Users\\ali\\source\\repos\\MextRepo\\Mext_Git\\Mext_Git.Domain\\Mext_Git.Domain.csproj",
-      "packagesPath": "C:\\Users\\ali\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ali\\source\\repos\\MextRepo\\Mext_Git\\Mext_Git.Domain\\obj\\",
+      "projectPath": "C:\\Users\\Feyza\\Source\\Repos\\MextRepo\\Mext_Git\\Mext_Git.Domain\\Mext_Git.Domain.csproj",
+      "packagesPath": "C:\\Users\\Feyza\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Feyza\\Source\\Repos\\MextRepo\\Mext_Git\\Mext_Git.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ali\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Feyza\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,8 +28,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://packagesource": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
@@ -41,6 +40,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -62,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.1.23455.8/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
