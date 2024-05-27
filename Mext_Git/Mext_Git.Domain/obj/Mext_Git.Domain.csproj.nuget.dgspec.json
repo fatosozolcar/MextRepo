@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ali\\source\\repos\\Mext_Git\\Mext_Git.Domain\\Mext_Git.Domain.csproj": {}
+    "C:\\Users\\ali\\source\\repos\\MextRepo\\Mext_Git\\Mext_Git.Domain\\Mext_Git.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ali\\source\\repos\\Mext_Git\\Mext_Git.Domain\\Mext_Git.Domain.csproj": {
+    "C:\\Users\\ali\\source\\repos\\MextRepo\\Mext_Git\\Mext_Git.Domain\\Mext_Git.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ali\\source\\repos\\Mext_Git\\Mext_Git.Domain\\Mext_Git.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\ali\\source\\repos\\MextRepo\\Mext_Git\\Mext_Git.Domain\\Mext_Git.Domain.csproj",
         "projectName": "Mext_Git.Domain",
-        "projectPath": "C:\\Users\\ali\\source\\repos\\Mext_Git\\Mext_Git.Domain\\Mext_Git.Domain.csproj",
+        "projectPath": "C:\\Users\\ali\\source\\repos\\MextRepo\\Mext_Git\\Mext_Git.Domain\\Mext_Git.Domain.csproj",
         "packagesPath": "C:\\Users\\ali\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ali\\source\\repos\\Mext_Git\\Mext_Git.Domain\\obj\\",
+        "outputPath": "C:\\Users\\ali\\source\\repos\\MextRepo\\Mext_Git\\Mext_Git.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ali\\AppData\\Roaming\\NuGet\\NuGet.Config",
