@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mext_Git.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9088c1f835e48ba30895181a0028b4b4cd0fcbc")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mext_Git.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mext_Git.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
